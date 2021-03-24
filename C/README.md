@@ -37,6 +37,7 @@
 - [Stock Span Problem](cp/Stock_Span.c)
 - [Bulb Switcher problem](cp/bulbSwitch.c)
 - [Luhn's Algorithm](cp/LuhnsAlgo.c)
+- [Lexicographical rank of a string](cp/Lexicographic_rank.c)
 
 ## Cryptography
 
@@ -79,6 +80,7 @@
 - [Implementation of minHeap](ds/minHeap.c)
 - [Removing duplicates from sorted linked list](ds/removeDuplicate.c)
 - [Doubly Linked List Implementation](ds/doubly_linked_list.c)
+- [Inorder Predecessor and Successor in BST](ds/inorder_predecessor_successor.c)
 - [Stack Using Queue](ds/StackUsingQueue.c)
 - [Finding a pair of element](ds/Finding_a_pair_of_element.c)
 - [Reverse Linked List](ds/reverse_linked_list.c)
